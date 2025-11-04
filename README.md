@@ -44,4 +44,5 @@ dalam format dua angka di belakang koma.
 
 Screenshot hasil program:
 
-<img width="1804" height="943" alt="Screenshot 2025-11-04 183736" src="https://github.com/user-attachments/assets/74c2d8f0-c72d-4ff0-9ede-16910c001f44" />
+<img width="1903" height="916" alt="Screenshot 2025-11-04 231934" src="https://github.com/user-attachments/assets/1f8ac902-56c7-4384-9661-8f2770217040" />
+
